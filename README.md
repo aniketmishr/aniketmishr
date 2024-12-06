@@ -26,14 +26,14 @@ Android Applications
 
 Machine Learning
 
-    [Project Name]: Description of the project. Technologies used: Python, TensorFlow, scikit-learn.
+    [Project Name]: Description of the project. Technologies used: Python, PyTorch,TensorFlow, scikit-learn.
 -->
 Skills
 
  - 🧑‍💻 Programming Languages: Python, Kotlin, C
  - 📔 Frameworks & Libraries: PyQt5, Jetpack Compose
  - 🔎 Tools: Git, GitHub, Android Studio
- - 🤖 Machine Learning: TensorFlow, scikit-learn
+ - 🤖 Machine Learning: TensorFlow, PyTorch,scikit-learn
 
 What's Next?
 
@@ -42,6 +42,9 @@ I'm constantly seeking to expand my knowledge and skills. Currently, I'm focusin
 Feel free to explore my repositories and reach out to me for collaboration or any inquiries. Let's connect and build something awesome together!
 
 Happy coding! 🚀
+
+[Linkedin](https://www.linkedin.com/in/aniket-mishr/)
+[Twitter](https://x.com/aniket_mishr)
 <!--
 **aniketmishr/aniketmishr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
